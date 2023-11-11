@@ -33,3 +33,4 @@
 - [Lei](https://github.com/srall123)
 - [Linlin Sun](https://github.com/lanximaomao)
 - [Stella-Kwon](https://github.com/Stella-Kwon)
+- [Wing](https://github.com/wengcychan)
